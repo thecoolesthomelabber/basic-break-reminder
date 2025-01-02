@@ -1,2 +1,2 @@
-# minimal-break-reminder
-A minimal break reminder written in C, work in progress.
+# basic-break-reminder
+A basic break reminder written in C, work in progress.
